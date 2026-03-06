@@ -1,99 +1,98 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : PoolLog - Pool Chemistry Made Simple
 
 # App Info
-ios_app_id                                : 6744295287                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 6744295287
+ios_app_country                           : us
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Pool Log                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : PoolLog
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Track water chemistry, get instant recommendations, and keep your pool crystal clear.
 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : true
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-linkedin_username                         :                                           
-linkedin_company                          :                                           
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+your_name                                 :
+your_link                                 :
+your_city                                 :
+email_address                             : support@poollog.app
+linkedin_username                         :
+linkedin_company                          :
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           :
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             :
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Instant Chemical Recommendations
+    description                           : Test your water, enter the results, and get precise dosing instructions for chlorine, pH, alkalinity, and more in seconds.
+    fontawesome_icon_name                 : flask
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Track Multiple Pools
+    description                           : Manage your backyard pool, hot tub, and rental properties from one app with Premium.
+    fontawesome_icon_name                 : swimming-pool
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : History and Trends
+    description                           : Beautiful charts show how your water chemistry changes over time so you can see what works.
+    fontawesome_icon_name                 : chart-line
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Weather Integration
+    description                           : Automatic weather tracking helps you understand what affects your pool without requiring location permissions.
+    fontawesome_icon_name                 : cloud-sun
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Smart Reminders
+    description                           : Never forget to test your water with customizable notifications that pause when your pool is closed.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : SLAM Mode
+    description                           : Special mode for shocking your pool with step-by-step guidance and elevated chlorine targets.
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Works Offline
+    description                           : All chemistry calculations work offline. No internet required for recommendations.
+    fontawesome_icon_name                 : wifi
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Privacy First
+    description                           : Your data stays on your device with optional iCloud sync. We do not collect, track, or sell your data.
+    fontawesome_icon_name                 : shield-alt
+
+  - title                                 : All Pool Types
+    description                           : Support for chlorine, bromine, salt water generators, and all common sanitizer systems.
+    fontawesome_icon_name                 : water
+
+  - title                                 : Expense Tracking
+    description                           : Track maintenance costs and export to CSV with Premium for tax time or budget analysis.
+    fontawesome_icon_name                 : dollar-sign
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#007AFF"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#007AFF"
+cover_overlay_transparency                : 0.85
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                      # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#007AFF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -102,8 +101,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#007AFF"
+feature_icons_background_color            : "#e6f2ff"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
