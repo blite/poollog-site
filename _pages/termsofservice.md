@@ -4,7 +4,9 @@ title: Terms of Service
 include_in_header: false
 ---
 
-**Last updated**: March 6, 2026
+**Last updated**: March 16, 2026
+
+<p align="center"><img src="/assets/appicon.png" alt="PoolLog" width="120" style="border-radius: 22px;"></p>
 
 # Terms of Service
 
@@ -31,7 +33,7 @@ PoolLog is a pool maintenance and water chemistry tracking application that prov
 
 ### 3.1 License Grant
 
-Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to download, install, and use PoolLog for your personal, non-commercial use on devices that you own or control.
+Subject to your compliance with these Terms, we grant you a nontransferable license to use PoolLog on any Apple-branded products that you own or control, solely for your personal, non-commercial purposes. You must remove the App from any Apple-branded product before selling or transferring that device to another party.
 
 ### 3.2 Restrictions
 
@@ -65,7 +67,11 @@ If you enable iCloud sync:
 - We do not have access to your iCloud data
 - You can disable iCloud sync at any time
 
-### 4.3 Data Accuracy
+### 4.3 Technical Data Collection
+
+You consent to us collecting and using technical data and related information — including but not limited to technical information about your device, system software, and application software — gathered periodically to facilitate software updates, product support, and other services related to the App. We may use this information, as long as it is in a form that does not personally identify you, to improve our products or provide services or technologies to you.
+
+### 4.4 Data Accuracy
 
 You are responsible for the accuracy of all data you enter into the App. PoolLog provides calculations and recommendations based on the information you provide, but we cannot guarantee the accuracy of your input data.
 
@@ -146,7 +152,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT,
 - Any content obtained from the App
 - Pool damage, equipment damage, or personal injury resulting from following App recommendations
 
-IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT PAID BY YOU TO US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM (OR $100 USD IF NO PAYMENTS WERE MADE).
+IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED FIFTY DOLLARS ($50.00).
 
 ## 7. Indemnification
 
@@ -166,7 +172,7 @@ The App uses the following third-party services:
 - **Apple CloudKit**: Optional iCloud sync (subject to Apple's Terms)
 - **Apple StoreKit**: In-app subscriptions (subject to Apple's Terms)
 
-Your use of these services is also subject to Apple's Terms of Service and Privacy Policy.
+Your use of these external services is at your sole risk. We are not responsible for examining or evaluating the content or accuracy of any third-party service, and we shall not be liable for any such third-party services. We are not liable for any transactions you complete through, or any injury, loss, or damage of any sort incurred as the result of, any third-party services. We reserve the right to change, suspend, remove, disable, or impose access restrictions or limits on any third-party service at any time without notice or liability to you.
 
 ## 9. Modifications to the Service
 
@@ -215,19 +221,23 @@ PoolLog is not intended for use by children under the age of 13. We do not knowi
 
 ## 13. Export Control
 
-You agree not to export or re-export the App in violation of U.S. export control laws and regulations.
+You may not use or otherwise export or re-export the App except as authorized by United States law and the laws of the jurisdiction in which the App was obtained. In particular, but without limitation, the App may not be exported or re-exported (a) into any U.S.-embargoed countries or (b) to anyone on the U.S. Treasury Department's Specially Designated Nationals List or the U.S. Department of Commerce Denied Persons List or Entity List. By using the App, you represent and warrant that you are not located in any such country or on any such list. You also agree that you will not use the App for any purposes prohibited by United States law.
+
+## 13a. Government End Users
+
+The App and related documentation are "Commercial Items," as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
 
 ## 14. Governing Law and Disputes
 
 ### 14.1 Governing Law
 
-These Terms are governed by the laws of the State of [Your State], United States, without regard to conflict of law principles.
+These Terms are governed by the laws of the State of California, United States, without regard to conflict of law principles, except that (a) if you are a citizen of a European Union country, Switzerland, Norway, or Iceland, the governing law and forum shall be the laws and courts of your usual place of residence.
 
 ### 14.2 Dispute Resolution
 
 Any disputes arising from these Terms or your use of the App shall be resolved through:
 
-1. **Informal Resolution**: Contact us at support@poollog.app to attempt informal resolution
+1. **Informal Resolution**: Contact us through the support options available within the App to attempt informal resolution
 2. **Arbitration**: If informal resolution fails, disputes shall be resolved by binding arbitration in accordance with the American Arbitration Association's rules
 3. **Class Action Waiver**: You agree to resolve disputes individually and waive any right to bring claims as a class action
 
@@ -249,10 +259,7 @@ Our failure to enforce any right or provision of these Terms will not be deemed 
 
 ## 18. Contact Information
 
-If you have questions about these Terms, please contact us:
-
-**Email**: support@poollog.app
-**Privacy Questions**: privacy@poollog.app
+If you have questions about these Terms, please contact us through the support options available within the App.
 
 ## 19. Acknowledgment
 

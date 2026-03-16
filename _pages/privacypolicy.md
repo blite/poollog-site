@@ -4,7 +4,9 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**: March 6, 2026
+**Last updated**: March 16, 2026
+
+<p align="center"><img src="/assets/appicon.png" alt="PoolLog" width="120" style="border-radius: 22px;"></p>
 
 # Privacy Policy
 
@@ -108,7 +110,7 @@ We may disclose information only if required by law, such as:
 
 ## Children's Privacy
 
-PoolLog is not directed to children under the age of 13, and we do not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us at privacy@poollog.app.
+PoolLog is not directed to children under the age of 13, and we do not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us through the support options available within the App.
 
 ## Data Security
 
@@ -167,11 +169,7 @@ Your continued use of PoolLog after changes indicates acceptance of the updated 
 
 ## Contact Us
 
-If you have questions about this Privacy Policy or how we handle your data, please contact us:
-
-**Email**: privacy@poollog.app
-
-For general support inquiries, contact: support@poollog.app
+If you have questions about this Privacy Policy or how we handle your data, please contact us through the support options available within the App.
 
 ## Open Source
 
