@@ -6,8 +6,6 @@ include_in_header: false
 
 **Last updated**: March 16, 2026
 
-<p align="center"><img src="/assets/appicon.png" alt="PoolLog" width="120" style="border-radius: 22px;"></p>
-
 # Privacy Policy
 
 PoolLog ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use the PoolLog mobile application (the "App").

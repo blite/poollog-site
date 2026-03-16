@@ -6,8 +6,6 @@ include_in_header: false
 
 **Last updated**: March 16, 2026
 
-<p align="center"><img src="/assets/appicon.png" alt="PoolLog" width="120" style="border-radius: 22px;"></p>
-
 # Terms of Service
 
 Welcome to PoolLog. These Terms of Service ("Terms") govern your use of the PoolLog mobile application (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms.
